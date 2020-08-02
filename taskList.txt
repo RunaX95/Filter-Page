@@ -1,0 +1,9 @@
+- Build a page which can filter through activities
+- Displaying a full list page which can be filtered through real time as the user types while displaying those meeting the filter criteria.
+
+
+!How to do it
+
+-Build basic page with HTML
+-Style with CSS
+-Add the JS code to perform search and filter in realtime.
