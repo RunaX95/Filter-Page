@@ -1,0 +1,38 @@
+body{
+    padding: 40px;
+    background-color:#e6e6e6 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+.search-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#search-box{
+    width: 70%;
+    height: 40px;
+    font-size: 20px;
+}
+
+.countries-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.country{
+    width: 120px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
